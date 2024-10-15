@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @thechemist-05
-- 👀 I’m interested in exploring projects
-- 🌱 I’m currently learning to code
-- 💞️ I’m looking to collaborate on projects
-- 😄 Pronouns: HE/HIM
-- ⚡ Fun fact: existence is also crisis.
+## 👋 Hello, I'm Daksh Jain!
+- 💻 Computer Science Student at KIIT
+- 🌟 AI & Machine Learning Enthusiast
+- 🛠 AWS Certified in Machine Learning | Python & C Developer
+- 🔥 Currently an Indigo Squad Member at Mood Indigo, IIT Bombay
+- 📊 Check out my [Expense Tracker](https://github.com/thechemist-05/ExpenseTracker) project
+- 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/daksh-jain)
+
 
 <!---
 thechemist-05/thechemist-05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
